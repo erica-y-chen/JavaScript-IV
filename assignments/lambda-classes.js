@@ -76,7 +76,7 @@ class Student extends Person {
     else
       return `try again`;
   }
-}
+}   
 
 
 // Add a graduate method to a student.
